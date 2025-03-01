@@ -30,9 +30,10 @@
 3. 获取当日动态验证码（每日00:00刷新）
 ```
 
+
 ### 步骤3：登录使用
-![登录界面截图](https://via.placeholder.com/800x400?text=Grok+AI+登录界面示例)  
-*（请自行替换实际截图URL）*
+![登录界面截图](https://github.com/user-attachments/assets/450b7cde-331f-45ef-9311-509693904567)  
+**
 
 ---
 
